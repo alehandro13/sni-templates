@@ -221,7 +221,7 @@ sni-templates/
 ## 📞 Контакты
 
 - GitHub: [@SmallPoppa](https://github.com/SmallPoppa)
-- Вопросы и предложения: создайте [Issue](https://github.com/SmallPoppa/sni-templates/issues)
+- Вопросы и предложения: [@SmallPoppa](https://github.com/SmallPoppa)
 
 ---
 
